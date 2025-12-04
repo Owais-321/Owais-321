@@ -7,9 +7,9 @@ I am a Computer Science graduate ('25) and a passionate software engineer based 
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Mobile Development:** Flutter, Dart, React Native [cite: 33, 34]
-* **Web Development:** React.js, JavaScript, HTML, CSS, Material UI, Bootstrap [cite: 36, 37, 38]
-* **Backend & Databases:** Firebase, SQL Database [cite: 35]
+* **Mobile Development:** Flutter, Dart, React Native.
+* **Web Development:** React.js, JavaScript, HTML, CSS, Material UI, Bootstrap.
+* **Backend & Databases:** Firebase, SQL Database.
 
 ---
 
